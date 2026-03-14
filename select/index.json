@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終末の赦祷式",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2026-03-14T10:19:13.657249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終末の赦祷式",
+      "artist": "HOYO-MiX",
+      "has_synced": false,
+      "path": "select/pl_01_終末の赦祷式_HOYO-MiX.txt"
+    }
+  ]
+}
